@@ -6,12 +6,9 @@
 
 ___
 ### Who We Are
-| Faculty       | Students      | Alumni|
-| ------------- |:-------------:| -----:|
-| Start Projects| Collaborate | Review |
-| Collaborate   | Contribute  | Start Projects |
-| Organize      | Submit Projects| Contribute |
-
+* Faculty | Start Projects, Collaborate, Organize
+* Students | Review, Contribute, Submit Projects
+* Alumni | Review, Contribute
 ___
 ### Links
 
